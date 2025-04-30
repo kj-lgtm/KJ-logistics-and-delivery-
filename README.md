@@ -10,4 +10,4 @@ This is the official website hosted with GitHub Pages.
 - Contact form
 
 ## Contact
-Email: [kjlogistic@gmail.com](mailto:kjlogistic@gmail.com)
+Email: [kjlogisticdelivery@gmail.com](mailto:kjlogisticdelivery@gmail.com)
